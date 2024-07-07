@@ -1,5 +1,3 @@
 
-02. IN-DB TEXR SUMMARIZATION WITH LANGUAGE MODELS/.DS_Store
-01. IN-DB SEMANTIC SEARCH/.ipynb_checkpoints/EMAILS-checkpoint.ipynb
-01. IN-DB SEMANTIC SEARCH/.DS_Store
-.DS_Store
+*.DS_Store
+**/.ipynb_checkpoints
